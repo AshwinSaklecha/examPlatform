@@ -1,0 +1,18 @@
+.examReport {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .examReport h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  .examReport p {
+    margin: 10px 0;
+    color: #555;
+  }
