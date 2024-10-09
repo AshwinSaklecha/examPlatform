@@ -48,5 +48,6 @@ To run the application in development mode, follow these steps:
 2. The timer will start counting down from 60 minutes
 3. If you attempt to exit full-screen mode, you'll receive a warning.
 4. A second attempt to exit full-screen mode will terminate the exam.
-5. You can manually submit the exam using the "Submit Exam" button.
-6. After the exam ends (either by submission, termination, or time-up), you'll see a basic report.
+5. If you try to select text, double-click, or right-click during the exam, the exam will terminate on the first exit attempt.
+6. You can manually submit the exam using the "Submit Exam" button.
+7. After the exam ends (either by submission, termination, or time-up), you'll see a basic report.
